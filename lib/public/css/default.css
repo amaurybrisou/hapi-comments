@@ -1,0 +1,86 @@
+#HC_main * {
+	padding: 1px 1px 1px 1px;
+	color: black;
+  font-family: "PT Sans", "American Typewriter", "Courier New", "Courier", serif;
+  font-weight: normal;
+}
+
+#HC_main {
+
+}
+
+#HC_form_block {
+	width: 500px;
+}
+
+.HC_textarea {
+	width: inherit;
+	height: 50px;
+}
+
+
+.HC_nickname {
+	width: inherit;
+}
+
+
+.HC_email {
+	width: inherit;
+}
+
+.HC_captcha {
+	width: inherit;
+	width: 150px;
+	height: 100px;
+}
+
+.HC_captcha_validate {
+	width: inherit;
+
+}
+
+.HC_button {
+	display: inline;
+}
+
+.HC_error{
+	font-size: 0.75em;
+  letter-spacing: 0.5px;
+  line-height: 1em;
+	display: inline;
+}
+
+#HC_comment_block {
+	background-color: #BFC5C7;
+	width: 500px;
+  text-decoration: none;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  behavior: url(/PIE.htc);
+}
+
+#HC_comment_block li {
+	background-color: #AEBCC2;
+	list-style: none;
+	margin: 10px 10px 5px 5px;
+	-moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  behavior: url(/PIE.htc);
+}
+
+
+.HC_comments_nickname {
+	display: inline;
+}
+
+.HC_comments_date {
+	margin-left: 10px;
+	display: inline;
+}
+
+
+.HC_comments_textarea {
+	
+}

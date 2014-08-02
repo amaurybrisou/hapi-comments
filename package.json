@@ -1,0 +1,31 @@
+{
+  "name": "hapi-comments",
+  "version": "0.0.0",
+  "description": "Hapi plugin to store user comments",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amaurybrisou/hapi-comments.git"
+  },
+  "keywords": [
+    "hapi",
+    "comments",
+    "plugin"
+  ],
+  "author": "Amaury Brisou",
+  "license": "BeerWare",
+  "bugs": {
+    "url": "https://github.com/amaurybrisou/hapi-comments/issues"
+  },
+  "dependencies": {
+    "mongodb": "~1.4.8",
+    "recaptcha": "~1.2.0",
+    "canvas": "~1.1.6",
+    "captchagen": "~1.1.0",
+    "joi": "~4.6.1",
+    "hapi": "~6.2.2"
+  }
+}
