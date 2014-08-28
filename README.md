@@ -33,4 +33,9 @@ or create a new one in the later directory. Don't forget to change the theme fil
 
 The other argument is the server url as is : 'http://localhost' without the trailing slash.
 
+
+###Dependency
+
+https://github.com/Automattic/node-canvas/wiki
+
 Contact me if you need.
