@@ -21,11 +21,10 @@
     "url": "https://github.com/amaurybrisou/hapi-comments/issues"
   },
   "dependencies": {
-    "mongodb": "~1.4.8",
-    "recaptcha": "~1.2.0",
-    "canvas": "~1.1.6",
-    "captchagen": "~1.1.0",
+    "captchagen": "^1.1.0",
+    "hapi": "~6.2.2",
     "joi": "~4.6.1",
-    "hapi": "~6.2.2"
+    "mongodb": "~1.4.8",
+    "recaptcha": "~1.2.0"
   }
 }
