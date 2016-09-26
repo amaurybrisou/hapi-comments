@@ -3,7 +3,10 @@ hapi-comments
 
 Hapi plugin to store comments
 
-###INSTALL
+### Dependencies 
+	sudo apt-get install libcairo2-dev libjpeg8-dev libpango1.0-dev libgif-dev build-essential g++
+
+### INSTALL
 
 put this kind of code in your manifest plugin section, dbName is mongodDb segment and drop if quiet obvious.
 
